@@ -1,0 +1,13 @@
+#circle-container {
+  display: flex;
+}
+
+.ball {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
+
+button {
+  margin-top: 15px;
+}
